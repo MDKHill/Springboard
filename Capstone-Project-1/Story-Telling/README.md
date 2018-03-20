@@ -1,2 +1,2 @@
 # Springboard
-This repository is for the story telling module of my Capstone Project 1.
+This repository is for the story telling part of my capstone project 1.
